@@ -1,4 +1,3 @@
-
 # Weather Forecast Application
 
 ![image](https://github.com/user-attachments/assets/fa33d3cc-fbb7-49d2-a7c4-8e454a114524)
